@@ -1,0 +1,2 @@
+a="golu"
+print(a)
