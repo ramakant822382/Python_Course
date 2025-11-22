@@ -1,5 +1,1 @@
-a="golu"
-print(a)
-
-# write loop program
-
+print("ramakant sharma")
